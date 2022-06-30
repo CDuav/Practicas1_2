@@ -1,0 +1,39 @@
+* {   
+    margin: 0px;   
+    padding: 0px; 
+}
+#seccion{
+    float:left;
+    width:  660px;
+    margin: 20px 20px;
+}
+
+#columna{
+    float:right;
+    width: 220px;
+    height: 340px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    color:white;
+    background-color: yellowgreen;
+}
+#pie{
+    text-align: center;
+    margin-inline: 20px;
+    border-top: 20px #999999;
+}
+article{
+    background-color: #fffbcc;
+    border: 1px #999999;
+    margin-inline: 20px;
+    margin-bottom: 15px;
+}
+time{
+    color: #999999;
+}
+figcaption{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+ 
